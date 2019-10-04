@@ -1,3 +1,5 @@
 CLass Demo{
-	Hello world
+	public static void main(){
+		System.out.println("Git hub");
+}
 }
