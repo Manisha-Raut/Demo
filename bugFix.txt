@@ -4,3 +4,5 @@ Hello
 Bug fixing updated
 
 Change rebase master 3
+
+Change stash master
