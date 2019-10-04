@@ -2,4 +2,8 @@ class MyClass{
 	public MyClass(){
 		System.out.print("h2")
 	}
+
+	public myMethd(){
+		
+	}
 };
