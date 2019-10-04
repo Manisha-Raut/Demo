@@ -2,4 +2,8 @@ CLass Demo{
 	public static void main(){
 		System.out.println("Git hub");
 }
+
+public void method1(){
+	System.out.println("Method added by user2");
+}
 }
