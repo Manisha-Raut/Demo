@@ -1,5 +1,5 @@
-CLass Demo{
-	public static void main(String args[]){
-		
+class MyClass{
+	public MyClass(){
+		System.out.print("h2")
 	}
-}
+};
